@@ -40,7 +40,7 @@ python modelpre --preDir "Image Dir" --ckpt "ckpt path" --saveDir "Save path"
 
 Tentatively publish the "ckpt_train.pth" for testing (small dataset 40 epochs training). 
 
-
+[GoogleDrive:ckpt_train.pth](https://drive.google.com/file/d/1FUBziIanu7heDsYC90f4mkuzG5Ckog2a/view?usp=share_link)
 
 Expect the paper to go well. When the paper is accepted, the authors will publish the converged weights.
 
