@@ -55,3 +55,5 @@ E-mail: mrwurenzhe@gmail.com
 
 At this point in time, this is simply a placeholder.
 
+## Acknowledge
+The network used in this method mainly draws lessons from Qin X's [U2Net](https://github.com/xuebinqin/U-2-Net). This network has small arithmetic power and excellent results, which provides a great convenience for our experiments. We would like to express our sincere gratitude.
